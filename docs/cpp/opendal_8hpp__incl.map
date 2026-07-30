@@ -1,0 +1,32 @@
+<map id="/home/runner/work/opendal/opendal/bindings/cpp/include/opendal.hpp" name="/home/runner/work/opendal/opendal/bindings/cpp/include/opendal.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="313,5,527,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="113,181,180,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,48,251,58,191,71,142,89,124,99,112,110,106,124,108,139,128,170,123,173,103,141,101,123,107,106,120,94,139,84,190,66,250,53,312,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="548,108,615,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="471,58,549,99,546,104,468,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="639,108,719,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="500,58,632,101,631,106,498,63"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="377,181,455,207"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="431,60,437,95,437,134,428,169,423,168,432,133,432,95,426,61"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,181,80,207"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="313,41,260,49,205,62,150,82,100,110,73,138,55,170,50,167,69,135,97,106,148,77,203,57,259,44,312,36"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="204,181,263,207"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="388,62,330,110,258,174,254,170,326,106,385,58"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="743,108,867,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="528,55,741,102,740,108,527,60"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="479,181,542,207"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="437,59,500,168,495,171,433,62"/>
+<area shape="rect" id="Node000010" href="$data__structure_8hpp.html" title=" " alt="" coords="121,108,265,133"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="352,63,237,106,235,101,350,58"/>
+<area shape="rect" id="Node000012" href="$layer_8hpp.html" title=" " alt="" coords="340,108,423,133"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="411,61,395,96,390,94,406,59"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="188,135,164,171,160,168,183,132"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="170,136,81,178,79,173,168,131"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="202,132,222,168,218,171,198,135"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="287,181,353,207"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="215,131,289,172,286,177,212,136"/>
+<area shape="poly" id="edge16_Node000012_Node000002" title=" " alt="" coords="344,136,194,181,192,176,343,131"/>
+<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="389,132,407,168,402,170,385,135"/>
+<area shape="poly" id="edge18_Node000012_Node000009" title=" " alt="" coords="403,131,478,172,476,177,401,136"/>
+<area shape="poly" id="edge15_Node000012_Node000011" title=" " alt="" coords="373,135,341,173,337,169,369,132"/>
+</map>
